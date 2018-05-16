@@ -1,0 +1,19 @@
+{
+  "name": "js-copy",
+  "version": "1.0.2",
+  "description": "A method for deeply copying objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tuluffy/js-copy.git"
+  },
+  "author": "tuluffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuluffy/js-copy/issues"
+  },
+  "homepage": "https://github.com/tuluffy/js-copy#readme"
+}
